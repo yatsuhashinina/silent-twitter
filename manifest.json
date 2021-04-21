@@ -4,7 +4,7 @@
     "name": "silent-twitter",
     "version": "0.1",
   
-    "description": "mute what's happing, who to follow from twitter.",
+    "description": "mute what's happing and who to follow from twitter.",
   
     "icons": {
       "48": "icons/icon-48.png"
