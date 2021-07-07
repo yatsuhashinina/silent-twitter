@@ -2,7 +2,7 @@
 
     "manifest_version": 2,
     "name": "silent-twitter",
-    "version": "0.1",
+    "version": "0.2",
   
     "description": "mute what's happing and who to follow from twitter.",
   
